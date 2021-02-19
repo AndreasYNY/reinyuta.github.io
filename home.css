@@ -59,3 +59,8 @@ body {
 .pip{
     padding-right: 10px;
 }
+
+.imgbg img{
+    position: absolute;
+    margin-top: -8%;
+}
